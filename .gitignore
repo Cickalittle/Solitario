@@ -1,5 +1,4 @@
 # Custom project-specific ignores
-__pycache__/
 *.pyc
 data/
 
