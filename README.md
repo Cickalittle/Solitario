@@ -11,7 +11,7 @@ Include gestione utenti, database, punteggi, comandi interattivi, animazioni e u
 ## 📸 Anteprime
 
 ### 🖥️ Menu iniziale
-![menu](./screenshots/menu.png)
+![menu](screenshots/menu.png)
 
 ### 🎮 Partita in corso
 ![gameplay](./screenshots/gameplay.png)
