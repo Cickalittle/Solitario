@@ -1,6 +1,7 @@
 # 🃏 Solitario Python
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 Un gioco completo del **Solitario** da giocare nel terminale!
@@ -45,9 +46,15 @@ solitario/
 
 ## ▶️ Come Avviare il Progetto
 
-1. **Scarica la repository**.
+1. **Scarica la cartella**:
+   ```bash
+   solitario/
+   ```
 
-2. **Scarica il requirements.txt**.
+2. **Scarica le dipendenze**.
+   ```bash
+   requirements.txt
+   ```
 
 3. **Installa le dipendenze**:
    ```bash
