@@ -53,7 +53,7 @@ solitario/
 
 2. **Scarica le dipendenze**.
    ```bash
-   requirements.txt
+   pip install -r requirements.txt
    ```
 
 3. **Installa le dipendenze**:
