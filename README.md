@@ -53,12 +53,12 @@ solitario/
 
 2. **Scarica le dipendenze**.
    ```bash
-   pip install -r requirements.txt
+   requirements.txt
    ```
 
 3. **Installa le dipendenze**:
    ```bash
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 
 4. **Avvia il gioco**:
